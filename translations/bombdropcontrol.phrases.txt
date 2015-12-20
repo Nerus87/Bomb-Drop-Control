@@ -1,0 +1,24 @@
+"Phrases"
+{
+	"Bomb_Removed"
+	{
+		"#format"	"{1:c}{2:N}{3:c}"
+		"en"		"You gave {1}{2}{3} C4";
+		"pl"		"{1}{2}{3} dostal twoja pake";
+	}
+
+	"Bomb_Added"
+	{
+		"#format"	"{1:c}{2:N}{3:c}"
+		"en"		"You got C4 from {1}{2}";
+		"pl"		"Dostales pake od {1}{2}";
+
+	}
+
+	"Bomb_Drop_Denied"
+	{
+		"#format"	"{1:c}{2:d}{3:c}"
+		"en"		"You can't drop C4, you need to be in range: {1}{2}{3} units to give the bomb to another terrorist";
+		"pl"		"Nie mozesz wyrzucic C4, musisz byc w zasięgu: {1}{2}{3} jednostek aby oddac pake innemu terroryscie";
+	}
+}
